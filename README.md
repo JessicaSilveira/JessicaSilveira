@@ -27,16 +27,3 @@
   <a href="https://www.linkedin.com/in/jessica-silveira-8951ba96/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-**Fixes:**
-
-* **Image height:** Changed `"height="180em"` to `"height="180"`. Using "em" for image height is not ideal on GitHub.
-* **Empty links:** Replaced empty `href` attributes in social media links with the provided URLs.
-* **Discord link:** Changed the link to point to the specific channel instead of the generic Discord server page.
-* **Unnecessary lines:** Removed the horizontal lines ("------") at the beginning and end.
-
-**Additional Tips:**
-
-* You can add a short bio describing yourself and your programming skills under the welcome message.
-* Consider adding links to your repositories or projects in the README.
-
-With these changes, your README.md should display correctly on your GitHub profile.
